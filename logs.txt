@@ -1,0 +1,17 @@
+*   ee9937c (HEAD -> master, origin/master, origin/HEAD) Merge branch 'master' of https://github.com/hdon4/SI_202
+5_lab1_231188
+|\
+| *   add1b19 Merge pull request #10 from hdon4/2-find-all-completed-tasks
+| |\
+| | * f0e484b (origin/2-find-all-completed-tasks, 2-find-all-completed-tasks) Implemented issue 2
+| * |   84747c2 Merge pull request #12 from hdon4/1-remove-a-task-by-name
+| |\ \
+| | |/
+| |/|
+| | * bc20405 (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Implemented issue 1
+| |/
+* / d204332 (origin/4-sort-tasks-by-priority, 4-sort-tasks-by-priority) Implemented issue 4
+|/
+* 4ecfb87 Added Java code
+* e907456 Initial commit
+
